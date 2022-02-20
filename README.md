@@ -82,8 +82,9 @@ We built a Kabaddi Field and Bleachers where users can gather in the metaverse t
 <br><br>
 
 We conferenced with the US NATIONAL KABADDI FEDERATION and COMMUNITY MEMBERS <br>
- <img width="950" alt="Screen Shot 2022-02-20 at 12 20 48 AM" src="https://user-images.githubusercontent.com/25784418/154832741-84a5625d-7f2b-4eb9-8b1c-509ce3832de1.png">
-
+ <img width="950" alt="Screen Shot 2022-02-20 at 12 20 48 AM" src="https://user-images.githubusercontent.com/25784418/154832741-84a5625d-7f2b-4eb9-8b1c-509ce3832de1.png"><br><br>
+IN THE USA KABADDI IS QUITE NEW ---- so if you have not experienced be before, check out this video on YouTube:
+ https://www.youtube.com/watch?v=8zONpbrN5UQ
 <br>
 <br>
 <b>OUR FIRST BUILD!!:</b>
@@ -96,10 +97,9 @@ So its official! Kabaddi is online in the ArenaVerse!<br>
 <br>
 <br>
 <br>
-<b>THE FIRST ARENA IN ARENAVERSE:</b>
+<b>WHERE WILL WE GO FROM HERE?</b>
 <br>
-We build a Kabaddi Field and Bleachers where users can gather in the metaverse to socialize and watch sports online
-<li>Create custom rendered content using BLENDER https://www.blender.org/download/ </li>
+The sun is always shining in the ArenaVerse, unless you chose to make it a night game of course. So with such a bright future where are we headed...<li>Create custom rendered content using BLENDER https://www.blender.org/download/ </li>
 
 
 <img width="957" alt="Screen Shot 2022-02-19 at 11 03 48 PM" src="https://user-images.githubusercontent.com/25784418/154830820-788c7ae9-33a2-4035-8996-53d3461f88dc.png">
@@ -107,11 +107,9 @@ We build a Kabaddi Field and Bleachers where users can gather in the metaverse t
 <br>
 <br>
 <br>
-<b>THE FIRST ARENA IN ARENAVERSE:</b>
+<b>TECHNICAL DATA AND RESOURCES:</b>
 <br>
-We build a Kabaddi Field and Bleachers where users can gather in the metaverse to socialize and watch sports online
-<li>Create custom rendered content using BLENDER https://www.blender.org/download/ </li>
-
+The tools and networks we used include ETHEREUM, ENS, POLYGON, IPFS, GATHER, MINTGATE, NEAR, and a few more.
 
 
 <b>DAO integration with ETHEREUM NAME SERVICE </b>
