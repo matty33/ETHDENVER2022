@@ -68,58 +68,27 @@ We built a Kabaddi Field and Bleachers where users can gather in the metaverse t
 <img width="950" alt="Screen Shot 2022-02-19 at 7 00 50 PM" src="https://user-images.githubusercontent.com/25784418/154828897-1233bc62-07b1-4c73-9b68-a317df53aef9.png">
 <br>
 <br>
-<br>
-<b>THE FIRST ARENA IN ARENAVERSE:</b>
-<br>
-We build a Kabaddi Field and Bleachers where users can gather in the metaverse to socialize and watch sports online
-<li>Create custom rendered content using BLENDER https://www.blender.org/download/ </li>
-<li>EMBED sport specific graphics into the ArenaVerse</li>
-<li>Onboard kabaddi team / community users for niche feedback </li>
 
-<img width="958" alt="Screen Shot 2022-02-19 at 11 02 02 PM" src="https://user-images.githubusercontent.com/25784418/154830735-b501fc94-1b52-4c45-a1d4-9957ff2a51d5.png">
 <br>
 <br>
-<br>
-<b>THE FIRST ARENA IN ARENAVERSE:</b>
-<br>
-We build a Kabaddi Field and Bleachers where users can gather in the metaverse to socialize and watch sports online
-<li>Create custom rendered content using BLENDER https://www.blender.org/download/ </li>
-<img width="942" alt="Screen Shot 2022-02-19 at 11 02 15 PM" src="https://user-images.githubusercontent.com/25784418/154830751-83162c22-e9f4-4854-8d8f-b108965eddf2.png">
-<br>
-<br>
-<br>
-<b>THE FIRST ARENA IN ARENAVERSE:</b>
-<br>
-We build a Kabaddi Field and Bleachers where users can gather in the metaverse to socialize and watch sports online
-<li>Create custom rendered content using BLENDER https://www.blender.org/download/ </li>
+<b>LETS TALK ABOUT SOLUTIONS FRENS:</b>
+<br><br>
+
 <img width="948" alt="Screen Shot 2022-02-19 at 11 03 03 PM" src="https://user-images.githubusercontent.com/25784418/154830772-4fe65af2-50da-4bcc-a71b-b7b45a83a26e.png">
 <br>
 <br>
 <br>
-<b>THE FIRST ARENA IN ARENAVERSE:</b>
-<br>
-We build a Kabaddi Field and Bleachers where users can gather in the metaverse to socialize and watch sports online
-<li>Create custom rendered content using BLENDER https://www.blender.org/download/ </li>
-<img width="945" alt="Screen Shot 2022-02-19 at 11 03 13 PM" src="https://user-images.githubusercontent.com/25784418/154830779-5112e18e-33cd-4efb-ab67-5c670eefa2bc.png">
-<br>
-<br>
-<br>
-<b>THE FIRST ARENA IN ARENAVERSE:</b>
-<br>
-We build a Kabaddi Field and Bleachers where users can gather in the metaverse to socialize and watch sports online
-<li>Create custom rendered content using BLENDER https://www.blender.org/download/ </li>
+<b>LETS EXPLORE A USER STORY! </b>
+<br><br>
 
+We conferenced with the US NATIONAL KABADDI FEDERATION and COMMUNITY MEMBERS <br>
+ <img width="950" alt="Screen Shot 2022-02-20 at 12 20 48 AM" src="https://user-images.githubusercontent.com/25784418/154832741-84a5625d-7f2b-4eb9-8b1c-509ce3832de1.png">
 
-
-<img width="943" alt="Screen Shot 2022-02-19 at 11 03 31 PM" src="https://user-images.githubusercontent.com/25784418/154830799-1ec975d8-189a-4fb8-a089-89a53cbb1e12.png">
 <br>
 <br>
+<b>OUR FIRST BUILD!!:</b>
 <br>
-<b>THE FIRST ARENA IN ARENAVERSE:</b>
-<br>
-We build a Kabaddi Field and Bleachers where users can gather in the metaverse to socialize and watch sports online
-<li>Create custom rendered content using BLENDER https://www.blender.org/download/ </li>
-
+So its official! Kabaddi is online in the ArenaVerse!<br>
 
 <img width="754" alt="Screen Shot 2022-02-19 at 11 03 40 PM" src="https://user-images.githubusercontent.com/25784418/154830813-9d7bda33-2f4a-4f32-b767-36f023823e66.png">
 
@@ -147,7 +116,7 @@ We build a Kabaddi Field and Bleachers where users can gather in the metaverse t
 
 <b>DAO integration with ETHEREUM NAME SERVICE </b>
 
-ENS CONFIGURATION FOR DAO UTILITIES
+<b>ENS CONFIGURATION FOR DAO UTILITIES</b>
 ipns://storage.snapshot.page/registry/0xCf940628435FCFB9C195eF1015faE07Ce1098c9f/kabaddidao.eth
 Set record on ENS 
 Profile
@@ -179,7 +148,9 @@ https://opensea.io/assets/matic/0x2a026Cb8cAf712BF74032c51bDE6067a9c93d106/198
 <b>POLYGON</b>
 https://polygonscan.com/token/0x2a026Cb8cAf712BF74032c51bDE6067a9c93d106?a=198
 CONTRACT 0x2a026Cb8cAf712BF74032c51bDE6067a9c93d106
-
+ipfs://QmbKr3VrU5nT9ESwpJQ5UMcnK85gvscUiBoes47kxeYfNU/0 
+ 
+ 
 <br><br>
 
 
