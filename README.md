@@ -1,4 +1,9 @@
 # ARENA-VERSE @ ETHDENVER2022
+<br><br>
+<img width="958" alt="Screen Shot 2022-02-19 at 11 02 02 PM" src="https://user-images.githubusercontent.com/25784418/154856588-9ee01853-822d-41aa-b31e-ea2f0835e443.png">
+
+
+<br><br>
 
 <br><br>
 <b>PROJECT TITLE:  ARENA-VERSE </b>
@@ -182,6 +187,11 @@ The NFT Holders within the ArenaVerse access unique hidden links, private videos
  
  https://algoexplorer.io/asset/616610402
 
- 
-The Enviroment around us and inside of us is a top priority.  We took inspiration from the great game of Kabaddi and the Athletes who play it to dive into just a small bit of ESG.  Particularly the Enviroment.  Some sweeeeeet day we will partner with https://onetreeplanted.org/ and organizations like it, to offer fractional credits to players and everyone else involved in the Arena-Verse.
+ <b>ESG GOALS - WAGMIIIIIII</b>
+ <br><br>
 
+The Enviroment around us and inside of us is a top priority.  We took inspiration from the great game of Kabaddi and the Athletes who play it to dive into just a small bit of ESG.  Particularly the Enviroment.  <br><br>
+Some sweeeeeet day we will partner with https://onetreeplanted.org/ and organizations like it, to offer fractional credits to players and everyone else involved in the Arena-Verse.
+<br><br>
+
+- Areana-Verse Team signing off until next time...
