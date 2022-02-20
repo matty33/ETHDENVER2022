@@ -51,14 +51,14 @@ In order to accomplish our utility we must customize our first Arena!
 The worlds first Player Enabled and Community Owned Franchises are coming.  <br>
 This is because we are building the tools that empower the athletes to succeed with modern finance and organization. <br>
 Decentralied finance and operations are possible today. <br>
-When we overlay the governance and economics with Tokens, and offer the product in a Metaverse <b><u>the entire organizational structure and revenue become transparet. </u></b>
+When we overlay the governance and economics with Tokens, and offer the product in a Metaverse <b><u>the entire organizational structure and revenue become transparet! This enables the players of the games, the athletes who take great risks, to receive equitable rewards and economics within the connected ecosystem. </u></b>
 <br><br>
  <img width="627" alt="Screen Shot 2022-02-20 at 12 01 09 AM" src="https://user-images.githubusercontent.com/25784418/154832267-b2f72ba5-245f-4077-9528-17d58b7c433b.png">
 
   
 <br>
 <br>
-<b>THE FIRST ARENA IN ARENAVERSE:</b>
+<b>THE FIRST ARENA IN ARENA-VERSE:</b>
 <br>
 We built a Kabaddi Field and Bleachers where users can gather in the metaverse to socialize and watch sports online
 <li>Create custom rendered content using BLENDER https://www.blender.org/download/ </li>
@@ -84,12 +84,12 @@ We built a Kabaddi Field and Bleachers where users can gather in the metaverse t
 We conferenced with the US NATIONAL KABADDI FEDERATION and COMMUNITY MEMBERS <br>
  <img width="950" alt="Screen Shot 2022-02-20 at 12 20 48 AM" src="https://user-images.githubusercontent.com/25784418/154832741-84a5625d-7f2b-4eb9-8b1c-509ce3832de1.png"><br><br>
 IN THE USA KABADDI IS QUITE NEW ---- so if you have not experienced be before, check out this video on YouTube:
- https://www.youtube.com/watch?v=8zONpbrN5UQ
+ <b>https://www.youtube.com/watch?v=8zONpbrN5UQ</b>
 <br>
 <br>
-<b>OUR FIRST BUILD!!:</b>
+<b>OUR FIRST #BUIDL!!:</b>
 <br>
-So its official! Kabaddi is online in the ArenaVerse!<br>
+So its official! Kabaddi is online in the ArenaVerse<br>
 
 <img width="754" alt="Screen Shot 2022-02-19 at 11 03 40 PM" src="https://user-images.githubusercontent.com/25784418/154830813-9d7bda33-2f4a-4f32-b767-36f023823e66.png">
 
@@ -99,7 +99,7 @@ So its official! Kabaddi is online in the ArenaVerse!<br>
 <br>
 <b>WHERE WILL WE GO FROM HERE?</b>
 <br>
-The sun is always shining in the ArenaVerse, unless you chose to make it a night game of course. So with such a bright future where are we headed...<li>Create custom rendered content using BLENDER https://www.blender.org/download/ </li>
+The sun is always shining in the ArenaVerse, unless you chose to make it a night game of course. So with such a bright future where are we headed..
 
 
 <img width="957" alt="Screen Shot 2022-02-19 at 11 03 48 PM" src="https://user-images.githubusercontent.com/25784418/154830820-788c7ae9-33a2-4035-8996-53d3461f88dc.png">
@@ -110,20 +110,23 @@ The sun is always shining in the ArenaVerse, unless you chose to make it a night
 <b>TECHNICAL DATA AND RESOURCES:</b>
 <br>
 The tools and networks we used include ETHEREUM, ENS, POLYGON, IPFS, GATHER, MINTGATE, NEAR, and a few more.
-
+<br>
 
 <b>DAO integration with ETHEREUM NAME SERVICE </b>
+ <br>
 
 <b>ENS CONFIGURATION FOR DAO UTILITIES</b>
 ipns://storage.snapshot.page/registry/0xCf940628435FCFB9C195eF1015faE07Ce1098c9f/kabaddidao.eth
-Set record on ENS 
-Profile
-Name*
-Kabadi DAO
-Network*
-Ethereum Mainnet
-Symbol*
-kdt
+Set record on ENS <br>
+Profile<br>
+Name*<br>
+Kabadi DAO<br>
+Network*<br>
+Ethereum Mainnet<br>
+Symbol*<br>
+kdt<br>
+ <br>
+
 
 
 <b>NFT CREATION AND ATTRIBUTES</b>
@@ -148,7 +151,14 @@ https://polygonscan.com/token/0x2a026Cb8cAf712BF74032c51bDE6067a9c93d106?a=198
 CONTRACT 0x2a026Cb8cAf712BF74032c51bDE6067a9c93d106
 ipfs://QmbKr3VrU5nT9ESwpJQ5UMcnK85gvscUiBoes47kxeYfNU/0 
  
- 
+ <br><br>
+ <b>TOKEN GATED CONTENT</b>
+  <br><br>
+We used token gates to create specific unlockable content associated with the SPORTS. 
+  <br><br>
+The NFT Holders within the ArenaVerse access unique hidden links, private videos, chats, and of course - token economics in the future. 
+<img width="264" alt="Screen Shot 2022-02-20 at 2 26 29 AM" src="https://user-images.githubusercontent.com/25784418/154836571-4b9c151a-7273-417b-a9c7-5750d70583fd.png">
+
 <br><br>
 
 
