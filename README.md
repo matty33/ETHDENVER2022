@@ -116,8 +116,10 @@ The tools and networks we used include ETHEREUM, ENS, POLYGON, IPFS, GATHER, MIN
  <br>
 
 <b>ENS CONFIGURATION FOR DAO UTILITIES</b>
-ipns://storage.snapshot.page/registry/0xCf940628435FCFB9C195eF1015faE07Ce1098c9f/kabaddidao.eth
-Set record on ENS <br>
+
+ <br><br>ipns://storage.snapshot.page/registry/0xCf940628435FCFB9C195eF1015faE07Ce1098c9f/kabaddidao.eth
+<br><br>
+ Set record on ENS <br>
 Profile<br>
 Name*<br>
 Kabadi DAO<br>
@@ -148,8 +150,8 @@ https://opensea.io/assets/matic/0x2a026Cb8cAf712BF74032c51bDE6067a9c93d106/198
 
 <b>POLYGON</b>
 https://polygonscan.com/token/0x2a026Cb8cAf712BF74032c51bDE6067a9c93d106?a=198
-CONTRACT 0x2a026Cb8cAf712BF74032c51bDE6067a9c93d106
-ipfs://QmbKr3VrU5nT9ESwpJQ5UMcnK85gvscUiBoes47kxeYfNU/0 
+<br><br>CONTRACT 0x2a026Cb8cAf712BF74032c51bDE6067a9c93d106
+<br><br>ipfs://QmbKr3VrU5nT9ESwpJQ5UMcnK85gvscUiBoes47kxeYfNU/0 
  
  <br><br>
  <b>TOKEN GATED CONTENT</b>
