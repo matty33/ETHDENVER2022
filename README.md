@@ -48,10 +48,12 @@ In order to accomplish our utility we must customize our first Arena!
 <b>DEFI-SPORTS FRANCHISES:</b>
 <br>
 <br>
-The worlds first Player Enabled and Community Owned Franchises are coming.  <br>
-This is because we are building the tools that empower the athletes to succeed with modern finance and organization. <br>
-Decentralied finance and operations are possible today. <br>
-When we overlay the governance and economics with Tokens, and offer the product in a Metaverse <b><u>the entire organizational structure and revenue become transparet! This enables the players of the games, the athletes who take great risks, to receive equitable rewards and economics within the connected ecosystem. </u></b>
+The worlds first Player Enabled and Community Owned Franchises are coming.  <br><br>
+This is because we are building the tools that empower the athletes to succeed with modern finance and organization. <br><br>
+Decentralied finance and operations are possible today. <br><br><br>
+When we overlay the governance and economics with Tokens, and offer the product in a Metaverse <b><u>the entire organizational structure and revenue become transparet! 
+ 
+ <br><br>This enables the players of the games, the athletes who take great risks, to receive equitable rewards and economics within the connected ecosystem. </u></b>
 <br><br>
  <img width="627" alt="Screen Shot 2022-02-20 at 12 01 09 AM" src="https://user-images.githubusercontent.com/25784418/154832267-b2f72ba5-245f-4077-9528-17d58b7c433b.png">
 
@@ -164,5 +166,22 @@ The NFT Holders within the ArenaVerse access unique hidden links, private videos
 <br><br>
 
 
+<img width="904" alt="Screen Shot 2022-02-20 at 3 11 17 AM" src="https://user-images.githubusercontent.com/25784418/154838669-9151149a-a84f-41c6-92f8-978229504d47.png">
+<img width="1079" alt="Screen Shot 2022-02-20 at 3 10 12 AM" src="https://user-images.githubusercontent.com/25784418/154838677-518fd3b7-558e-4c7e-8f76-7c6c0b95a835.png">
+<img width="467" alt="Screen Shot 2022-02-20 at 2 43 47 AM" src="https://user-images.githubusercontent.com/25784418/154838678-ca7e61ff-a958-4067-9b57-0756d11ad960.png">
+ 
+ 
+ <img width="1072" alt="Screen Shot 2022-02-20 at 4 11 32 AM" src="https://user-images.githubusercontent.com/25784418/154839712-38945fba-901f-490f-ad30-e9bc60570376.png">
+<img width="1067" alt="Screen Shot 2022-02-20 at 4 11 10 AM" src="https://user-images.githubusercontent.com/25784418/154839714-933ef4f5-292f-424e-9962-5121878a81a4.png">
+<img width="875" alt="Screen Shot 2022-02-20 at 4 09 17 AM" src="https://user-images.githubusercontent.com/25784418/154839715-c1514ec0-748f-49e6-9571-544a535e340f.png">
+<img width="600" alt="Screen Shot 2022-02-20 at 4 08 20 AM" src="https://user-images.githubusercontent.com/25784418/154839718-fc073721-9620-467e-b47c-82ea87b7918e.png">
+<img width="740" alt="Screen Shot 2022-02-20 at 4 20 46 AM" src="https://user-images.githubusercontent.com/25784418/154840088-a86355fa-218f-4a79-a4a7-b4cd1ff7f77f.png">
 
+ 
+ 
+ 
+ https://algoexplorer.io/asset/616610402
+
+ 
+The Enviroment around us and inside of us is a top priority.  We took inspiration from the great game of Kabaddi and the Athletes who play it to dive into just a small bit of ESG.  Particularly the Enviroment.  Some sweeeeeet day we will partner with https://onetreeplanted.org/ and organizations like it, to offer fractional credits to players and everyone else involved in the Arena-Verse.
 
